@@ -130,3 +130,10 @@ Para evoluir o WorkUp além do protótipo acadêmico, as seguintes melhorias sã
 4.  **Notificações Push:** Alertas em tempo real sobre novas oportunidades e cursos concluídos.
 5.  **Versão Mobile (PWA):** Transformação em Web App Progressivo para instalação direta no smartphone.
 6.  **Dashboard de Empresas:** Painel exclusivo para empresas parceiras gerenciarem vagas e impacto social.
+<img width="3840" height="2016" alt="Captura de tela 2026-04-26 155232" src="https://github.com/user-attachments/assets/17b11713-cae3-47ef-a4f5-5d218b6e856b" />
+<img width="3840" height="2016" alt="Captura de tela 2026-04-26 155228" src="https://github.com/user-attachments/assets/16f230c0-66dd-4260-a4b5-cab0e1a0bc6b" />
+<img width="3840" height="2016" alt="Captura de tela 2026-04-26 155223" src="https://github.com/user-attachments/assets/f5d94b2c-0459-42a0-86c2-2e1fc03d9b4c" />
+<img width="3840" height="2016" alt="Captura de tela 2026-04-26 153916" src="https://github.com/user-attachments/assets/e8ffb7b4-ea6a-4932-b0c2-b297baf34a09" />
+<img width="3840" height="2016" alt="Captura de tela 2026-04-26 155217" src="https://github.com/user-attachments/assets/62d2cb6f-80fd-4e65-ba56-897e24208868" />
+<img width="3840" height="2016" alt="Captura de tela 2026-04-26 155212" src="https://github.com/user-attachments/assets/b00c0286-a635-480f-a69f-40c61304200c" />
+<img width="3840" height="2016" alt="Captura de tela 2026-04-26 153926" src="https://github.com/user-attachments/assets/9e54f347-ba62-4422-ba84-b141492c7826" />
